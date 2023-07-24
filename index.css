@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
 article {
     min-height: 100%;
     display: grid;
@@ -10,4 +11,12 @@ footer {
     padding: 5px;
     background-color: #45a1ff;
     color: #fff;
+}
+
+#header {
+    display: inline;
+}
+#h1 {
+    font-family: 'Roboto', sans-serif;
+
 }
